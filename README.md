@@ -1,5 +1,4 @@
-
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&background=FFFFFF00&center=true&width=440&lines=Welcome+to+LaxzyX!;Developer+%7C+Creator+%7C+Innovator;Crafting+non-root+modules+for+gamers!)
+![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&background=FFFFFF00&center=true&width=440&lines=Welcome+to+LaxzyX!;Developer+%7C+Creator+%7C+Innovator;Crafting+apps+tools+for+game!)
 
 <p align="center">
   <img src="https://r1.community.samsung.com/t5/image/serverpage/image-id/4599995iFA090C40A63EFAAA?v=v2" alt="Chermodsc" />
@@ -10,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-Hi, I'm **Wiz Algifahri**, a 14-year-old developer passionate about **gaming optimization** and **non-root modules**. I love crafting tools and scripts that enhance user experience and bring out the best in Android gaming.
+Hi, I'm **Wiz Algifahri**, a 14-year-old developer passionate about **gaming optimization** and **Tools for game**. I love crafting tools and scripts that enhance user experience and bring out the best in Android.
 
 ---
 
@@ -31,7 +30,7 @@ Here are some of my most exciting projects:
 ---
 
 ## 🌐 Socials:  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/laxzwyh?igsh=Njd6YmNqZW81ZW9j) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@littlewizyyx) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/laxzwyh?igsh=Njd6YmNqZW81ZW9j) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@laxzwyh) 
 [![YouTube](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.gg/eAaRpg7t4Y)
 
 ---
