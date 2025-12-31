@@ -25,7 +25,7 @@ Here are some of my most exciting projects:
 ---
 
 ## ✨️ Suport Me  
-- **Join my Whatsapp : 
+- **Join my Whatsapp :** 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=Whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7QxAg9WtC4XMnfna0p)
 
 
