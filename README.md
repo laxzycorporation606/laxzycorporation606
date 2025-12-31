@@ -25,11 +25,10 @@ Here are some of my most exciting projects:
 ---
 
 ## ✨️ Suport Me  
-- **Join my Whatsapp : [LaxzyX!]
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://whatsapp.com/channel/0029Vb7QxAg9WtC4XMnfna0p)
+- **Join my Whatsapp : 
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=Whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7QxAg9WtC4XMnfna0p)
 
 
-https://img.shields.io/badge/WhatsApp-%2325D366.svg?
 ---
 
 ## 🌐 Socials:  
