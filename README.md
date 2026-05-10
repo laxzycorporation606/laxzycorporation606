@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-Hi, I'm **Wiz Algifahri**, a 14-year-old developer passionate about **gaming optimization** and **Tools for game**. I love crafting tools and scripts that enhance user experience and bring out the best in Android.
+Hi, I'm **M Nugi Nugraha**, a 14-year-old developer passionate about **gaming optimization** and **Tools for game**. I love crafting tools and scripts that enhance user experience and bring out the best in Android.
 
 ---
 
