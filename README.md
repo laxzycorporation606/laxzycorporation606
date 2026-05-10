@@ -33,7 +33,7 @@ Here are some of my most exciting projects:
 
 ## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bratminsx?igsh=Njd6YmNqZW81ZW9j) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@bratminsx) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)]((https://discord.gg/WebdBTVtEd)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.gg/WebdBTVtEd)
 
 ---
 
