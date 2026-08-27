@@ -3,13 +3,13 @@
 <p align="center">
   <img src="https://r1.community.samsung.com/t5/image/serverpage/image-id/4599995iFA090C40A63EFAAA?v=v2" alt="Chermodsc" />
   <br />
-  <i>LaxzyX! | Nugi</i>
+  <i>LaxzyX! | KayserX!</i>
 </p>
 
 ---
 
 ## 🚀 About Me  
-Hi, I'm **M Nugi Nugraha**, a 14-year-old developer passionate about **gaming optimization** and **Tools for game**. I love crafting tools and scripts that enhance user experience and bring out the best in Android.
+Hi, I'm **KayserX!/Laxzy**, a 15-year-old developer passionate about **gaming optimization** and **Tools for game**. I love crafting tools and scripts that enhance user experience and bring out the best in Android.
 
 ---
 
