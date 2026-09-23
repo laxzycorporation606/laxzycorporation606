@@ -40,7 +40,6 @@ Here are some of my most exciting projects:
 ## ✨ Support Me
 
 - **Join my Whatsapp :**
-  https://whatsapp.com/channel/0029VbC0ob25K3zU84Q7e13D
 
 [
 
@@ -51,10 +50,6 @@ Here are some of my most exciting projects:
 ---
 
 ## 🌐 Socials
-
-- **Instagram:** https://www.instagram.com/bratminsx?igsh=Njd6YmNqZW81ZW9j
-- **TikTok:** https://www.tiktok.com/@bratminsx
-- **Discord:** https://discord.gg/WebdBTVtEd
 
 [
 
